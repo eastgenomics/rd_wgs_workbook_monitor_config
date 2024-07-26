@@ -1,0 +1,25 @@
+{   
+    "name": "rd_wgs_workbook_monitor_config",
+    "version": "1.0.0",
+    "eggd_generate_rd_wgs_workbook_app_id": "app-GjjG6684bpK94qj00P91Q0x0",
+    "inputs": {
+        "refseq_tsv": {
+            "$dnanexus_link": {
+                "project": "project-Fkb6Gkj433GVVvj73J7x8KbV",
+                "id": "file-GkyXgXj44gxbqyZpGG78qBZ0"
+                }
+            },
+        "mane_file": {
+            "$dnanexus_link": {
+                "project": "project-Fkb6Gkj433GVVvj73J7x8KbV",
+                "id": "file-Gg5p2J04qJpk3GyJXjFyby66"
+            }
+        },
+        "eggd_generate_rd_wgs_workbook_config": {
+            "$dnanexus_link": {
+                "project": "project-Fkb6Gkj433GVVvj73J7x8KbV",
+                "id": "file-Gkz9QP047gjvxfFykFY1q1XB"
+            }
+        }
+    }
+}
