@@ -1,7 +1,7 @@
 {   
     "name": "rd_wgs_workbook_monitor_config",
     "version": "1.0.0",
-    "eggd_generate_rd_wgs_workbook_app_id": "app-GjjG6684bpK94qj00P91Q0x0",
+    "eggd_generate_rd_wgs_workbook_app_id": "app-GpbZ2PQ4pbxXJgxZF7V3795z",
     "inputs": {
         "refseq_tsv": {
             "$dnanexus_link": {
